@@ -28,12 +28,22 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – ".pbix" for dashboard and ".png" for preview images.
 
 
+
+
+
 📂 Data Source
 Dataset: Blinkit sales & outlet dataset (public Kaggle dataset / provided CSVs)
+
 Data Includes:
+
 📦 Item details (type, fat content, visibility, sales)
+
 🏬 Outlet details (size, location tier, establishment year, type)
+
 📊 Key metrics (total sales, average sales, ratings, number of items)
+
+
+
 
 
 ✨ Features / Highlights
