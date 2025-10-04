@@ -6,14 +6,17 @@ A dynamic **Power BI dashboard** analyzing Blinkit’s sales, outlet types, item
 
 📌 Short Description / Purpose
 
+
 The Blinkit Dashboard provides a consolidated view of sales distribution across product categories, outlet locations, outlet sizes, and establishment years.
 It helps stakeholders identify trends in sales performance, consumer preferences, and outlet contributions, enabling data-driven decision-making for inventory planning, marketing, and expansion strategies.
+
 
 
 
 🛠 Tech Stack
 
 The dashboard was built using the following tools and technologies:
+
 📊 Power BI Desktop – Data visualization & report creation.
 
 📂 Power Query – Data transformation & cleaning.
